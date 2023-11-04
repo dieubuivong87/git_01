@@ -1,9 +1,8 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "hannah vong"
+date: "Fall 2023 "
 output: html_document
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
